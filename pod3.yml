@@ -24,4 +24,4 @@ spec:
       - name: hello-pod
         image: chhavijerath/k8s
         ports:
-        - containerPort: 8080
+        - containerPort: 9090
